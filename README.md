@@ -1,1 +1,1 @@
-# Go-practice
+Beginner Go (Golang) practice projects
